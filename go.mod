@@ -1,3 +1,3 @@
-module github.com/gorilla/mux
+module github.com/trinity-misono-mika/mux
 
 go 1.20
